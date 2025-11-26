@@ -1,10 +1,10 @@
-Crypto Market Dashboard (Power BI Project)
-Overview
+## Crypto Market Dashboard (Power BI Project)
+**Overview**
 
 This project analyzes global cryptocurrency market trends using a multi-page Power BI dashboard.
 The goal is to explore market capitalization, price movements, trading volume, and yearly trends across major cryptocurrencies.
 
-Objectives
+**Objectives**
 
 Visualize market cap distribution across top cryptocurrencies.
 
@@ -16,7 +16,7 @@ Build an interactive dashboard with KPI cards, slicers, and navigation buttons.
 
 Present insights with a modern, clean UI theme.
 
-Dataset Information
+**Dataset Information**
 
 The dataset includes:
 
@@ -30,7 +30,7 @@ Filters → Year, Crypto Category
 Rows: varies depending on dataset
 Columns: typically 8–12
 
-Technologies Used
+**Technologies Used**
 
 Power BI
 
@@ -56,7 +56,7 @@ Trading volume chart
 
 Custom theme & multi-page navigation buttons
 
-Key Insights
+**Key Insights**
 
 Bitcoin and Ethereum dominate overall market capitalization.
 
@@ -66,12 +66,12 @@ High trading volume correlates with price fluctuations.
 
 Year-wise filtering reveals trend differences across crypto cycles.
 
-Conclusion
+**Conclusion**
 
 The dashboard highlights the dynamic nature of the crypto market.
 Clear patterns in volume, market cap, and price trends help identify market dominance, volatility levels, and growth patterns across years.
 
-How to Use
+**How to Use**
 
 Download the .pbix file
 
@@ -81,7 +81,7 @@ Explore pages using navigation buttons
 
 Use slicers (Year & Crypto Category) for deep analysis
 
-Author
+**Author**
 
 Avinash Vidyasagar Rao
 Data Analyst | Python | SQL | Power BI
