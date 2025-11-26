@@ -24,20 +24,20 @@ The dataset includes:
 
 **Technologies Used**
 
-Power BI  
-DAX  
-Power Query  
-Excel / CSV  
-Data Modeling  
+- Power BI  
+- DAX  
+- Power Query  
+- Excel / CSV  
+- Data Modeling  
 
 **Dashboard Features**
 
-Donut chart for market cap distribution  
-Line charts for High/Low and Open/Close trends  
-Year slicer for time-based comparison  
-KPI cards showing key financial metrics  
-Trading volume chart  
-Custom theme & multi-page navigation buttons  
+- Donut chart for market cap distribution  
+- Line charts for High/Low and Open/Close trends  
+- Year slicer for time-based comparison  
+- KPI cards showing key financial metrics  
+- Trading volume chart  
+- Custom theme & multi-page navigation buttons  
 
 **Key Insights**
 
