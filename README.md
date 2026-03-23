@@ -58,8 +58,7 @@ Clear patterns in volume, market cap, and price trends help identify market domi
 - Explore pages using navigation buttons  
 - Use slicers (Year & Crypto Category) for deep analysis
 
-**Author**
-
-Avinash Vidyasagar Rao  
-Data Analyst | Python | SQL | Power BI  
-GitHub: https://github.com/AviRaoProjects
+## Author
+**Avinash Vidyasagar Rao**  
+Aspiring Data Analyst | SQL | Excel | Power BI | Python  
+GitHub: [AviRaoProjects](https://github.com/AviRaoProjects)
